@@ -4,4 +4,5 @@ void setup(){
 
 void loop(){
     Serial.print("ini di developer");
+    Serial.print ("masuk f/1");
 }
