@@ -7,4 +7,6 @@ void loop(){
     Serial.print ("masuk f/1");
     Serial.print("masuk f/2");
     Serial.print("masuk f/3");
+
+    Coba menghubungkan program ke github;
 }
