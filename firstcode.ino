@@ -9,4 +9,6 @@ void loop(){
     Serial.print("masuk f/3");
 
     Coba menghubungkan program ke github;
+    
+    Lakukan perubahan github ke vscode;
 }
